@@ -27,7 +27,7 @@ csl: files/bib/chicago-author-date.csl
 website:
   title: "Data Visualization with R"
   description: "Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data"
-  site-url: "https://sneupane2.github.io/dataviz-pmap-8551/"
+  site-url: "https://sneupane2.github.io/dataviz-8551/"
 
   draft-mode: unlinked
 
@@ -38,7 +38,7 @@ website:
   favicon: "files/favicon-512.png"
 
 
-  repo-url: "https://github.com/sneupane2/dataviz-pmap-8551"
+  repo-url: "https://github.com/sneupane2/dataviz-8551"
   repo-actions: [source, issue]
   
   page-navigation: true
@@ -275,7 +275,7 @@ website:
       [Andrew Heiss's Data Visualization with R course](https://github.com/andrewheiss/datavizsp26.classes.andrewheiss.com). <br>
       Text and figures are licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
-      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/); code is licensed under the [MIT License](https://github.com/sneupane2/dataviz-pmap-8551/blob/main/LICENSE).
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/); code is licensed under the [MIT License](https://github.com/sneupane2/dataviz-8551/blob/main/LICENSE).
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
       [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
