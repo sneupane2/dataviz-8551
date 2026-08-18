@@ -22,9 +22,9 @@ To practice working with {ggplot2} and making data-based graphics, you will comp
 
 - ✔+: (*11.5 points (115%) in gradebook*) Exercises are 100% completed. Every task was attempted and answered, and most answers are correct. Rendered document is clean and easy to follow. Work is exceptional. I will not assign these often.
 - ✔: (*10 points (100%) in gradebook*) Exercises are 70–99% complete and most answers are correct. This is the expected level of performance.
-- ✔−: (*5 points (50%) in gradebook*) Exercises are less than 70% complete and/or most answers are incorrect. This indicates that you need to improve next time. I will hopefully not assign these often.
+- ✔−: (*5 points (50%) in gradebook*) Exercises are less than 70% complete and/or most answers are incorrect. This indicates that you need to improve next time. Most students who engage with the course and make a genuine effort should expect to earn a ✓.
 
-Note that this is also essentially a pass/fail system. I'm not grading your coding ability, I'm not checking each line of code to make sure it produces some exact final figure, and I'm not looking for perfect. Also note that a ✓ does not require 100% completion—you will sometimes get stuck with weird errors that you can't solve. I'm looking for good faith effort, that's all. Try hard, do good work, and you'll get a ✓.
+Note that this is also essentially a pass/fail system. I'm not grading your coding ability, I'm not checking each line of code to make sure it produces some exact final figure, and I'm not looking for perfect. Also note that a ✓ does not require 100% completion—you will sometimes get stuck with weird errors that you can't solve. I'm looking for good faith effort, that's all. Try hard, do good work, and you'll get a ✓. In iCollege, these checks are recorded as the equivalent point values.
 
 You may (and should!) work together on the exercises, but you must turn in your own answers.
 
