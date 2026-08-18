@@ -3,6 +3,7 @@ title: "Mini project 1 feedback"
 date: "2026-10-29T00:15"
 categories: [FAQs, feedback]
 toc-depth: 4
+draft: true
 ---
 
 ```{r}
