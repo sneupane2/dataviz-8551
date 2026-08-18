@@ -2,6 +2,7 @@
 title: "Grades, zeroes, and ✓−s in the gradebook"
 date: "2026-10-29T13:05"
 categories: [course details]
+draft: true
 ---
 
 Hi everyone!
