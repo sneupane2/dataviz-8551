@@ -2,6 +2,7 @@
 title: "Class website future"
 date: "2026-12-05T12:57"
 categories: [course details]
+draft: true
 ---
 
 Hello everyone!
