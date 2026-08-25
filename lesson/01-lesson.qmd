@@ -19,9 +19,8 @@ There are several sections, but they're short and go fairly quickly. **I have no
 - **The Basics**
   - [Visualization basics](https://r-primers.andrewheiss.com/basics/01-visualization-basics/)
   - [Programming basics](https://r-primers.andrewheiss.com/basics/02-programming-basics/)
-## Programming Basics videos
 
-    Some videos embedded in the Programming Basics page are no longer available from the original source. The rest of the page is still useful, so continue using it. You can use the following videos as additional references for these topics:
+    Note: Some videos embedded in the Programming Basics page are no longer available from the original source. The rest of the page is still useful, so continue using it. You can use the following videos as additional references for these topics:
 
     - [Vectors in R](https://www.youtube.com/watch?v=CBueHBi-ezw)
     - [Functions and objects in R](https://www.youtube.com/watch?v=hvFBDmT4bdY&t=3s)
