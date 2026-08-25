@@ -10,15 +10,23 @@ knitr::opts_chunk$set(fig.align = "center")
 
 ## Part 1: The basics of R and {dplyr}
 
-For the first part of this week's lesson, you need to work through a few of Posit's introductory primers. You'll do these in your browser and type code and see results there.
+For the first part of this week's lesson, work through the introductory materials below. You'll do these in your browser, where you can type R code and see the results.
 
-You'll learn some of the basics of R, as well as some powerful methods for manipulating data with the {dplyr} package. 
+These materials introduce some of the basics of R, along with useful tools for working with data using the {dplyr} package.
 
-Complete these primers. It seems like there are a lot, but they're short and go fairly quickly (especially as you get the hang of the syntax). Also, **I have no way of seeing what you do or what you get wrong or right**, and that's totally fine! If you get stuck and want to skip some (or if it gets too easy), go right ahead and skip them!
+There are several sections, but they're short and go fairly quickly. **I have no way of seeing what you do or what you get wrong or right**, and that's totally fine! The goal is to practice and become familiar with R. If you get stuck on something, you can move on and come back to it later.
 
 - **The Basics**
-	- [Visualization basics](https://r-primers.andrewheiss.com/basics/01-visualization-basics/)
-	- [Programming basics](https://r-primers.andrewheiss.com/basics/02-programming-basics/)
+  - [Visualization basics](https://r-primers.andrewheiss.com/basics/01-visualization-basics/)
+  - [Programming basics](https://r-primers.andrewheiss.com/basics/02-programming-basics/)
+## Programming Basics videos
+
+    Some videos embedded in the Programming Basics page are no longer available from the original source. The rest of the page is still useful, so continue using it. You can use the following videos as additional references for these topics:
+
+    - [Vectors in R](https://www.youtube.com/watch?v=CBueHBi-ezw)
+    - [Functions and objects in R](https://www.youtube.com/watch?v=hvFBDmT4bdY&t=3s)
+    - [Data types in R](https://www.youtube.com/watch?v=VtUVQWl0aRA)
+    - [Lists in R](https://www.youtube.com/watch?v=X8lNTDeiKiE)
 - **Work with Data**
 	- [Working with tibbles](https://r-primers.andrewheiss.com/transform-data/01-tibbles/)
 	- [Isolating data with {dplyr}](https://r-primers.andrewheiss.com/transform-data/02-isolating/)
